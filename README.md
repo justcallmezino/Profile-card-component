@@ -25,7 +25,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/social-links-profile-lqmLitxDlh)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/profile-card-component-N2Y7gSAYzh)
 - Live Site URL: [GitHub Pages Live URL](https://justcallmezino.github.io/Profile-card-component/)
 
 ## My process
